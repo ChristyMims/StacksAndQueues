@@ -1,0 +1,4 @@
+﻿  stacksAndQueues.cpp
+c:\users\christy\source\repos\stacksandqueues\stacksandqueues\stacksandqueues.cpp(205): warning C4715: 'popQueue': not all control paths return a value
+c:\users\christy\source\repos\stacksandqueues\stacksandqueues\stacksandqueues.cpp(266): warning C4715: 'popStack': not all control paths return a value
+  StacksAndQueues.vcxproj -> C:\Users\Christy\source\repos\StacksAndQueues\Debug\StacksAndQueues.exe

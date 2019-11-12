@@ -1,0 +1,4 @@
+99
+86
+52
+Average of Stack is: 79
